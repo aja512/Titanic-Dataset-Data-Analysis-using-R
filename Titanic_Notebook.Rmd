@@ -14,7 +14,7 @@ To summarize in bullet points, there are following merits.
 
 - There is a lot of good literature for data visualization and analysis. In particular, I think there is a lot of literature that mentions the validity of visualization methods and even hypothesis testing.
 
-- With ggplot, we can create high quality plots without tuning. You can check this out later.
+- With ggplot, we can create high quality plots without tuning. 
 
 - ggplot has a consistent API and is easy to use. The ggplot object and the geom object allow for a very good syntax and abstraction of the plots.
 
